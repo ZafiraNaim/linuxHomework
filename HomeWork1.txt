@@ -1,0 +1,31 @@
+   0 mkdir /home/animals
+   1 mkdir /home/animals/dogs
+   2 mkdir /home/animals/cats
+   3 mkdir /home/animals/fish
+   4 three /home/animlas
+   5 three /home/animals
+   6 tree /home/animals
+   7 touch /home/animals/dogs/pluto
+   8 touch /home/animals/cats/garfield
+   9 touch /home/animals/fish/nemo
+  10 tree /home/animals
+  11 touch /tmp/adam
+  12 tree /tmp
+  13 tree /home
+  14 mkdir /home/humans
+  15 tree /home
+  16 cp /tmp/adam /home/humans/
+  17 tree /home
+  18 touch /tmp/evA
+  19 tree /tmp
+  20 tree /opt/eve
+  21 mv /tmp/evA /opt/eve/evA2
+  22 tree /tmp
+  23 mv /tmp/evA /opt/eve
+  24 three /opt
+  25 tree /opt
+  26 tree /home
+  27 mv /opt/eve /home/humans/
+  28 tree /home
+  29 history
+  30 history > history.txt
